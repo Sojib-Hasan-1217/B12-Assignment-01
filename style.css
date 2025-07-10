@@ -54,6 +54,8 @@ nav{
 }
 .header{
   background-image: url(../Assets/Hero-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .banner{
