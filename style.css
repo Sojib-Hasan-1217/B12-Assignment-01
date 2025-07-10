@@ -53,7 +53,7 @@ nav{
   border-radius: 10px;
 }
 .header{
-  background-image: url(../Assets/Hero-bg.png);
+  background-image: url(Assets/Hero-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
