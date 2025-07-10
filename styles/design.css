@@ -53,9 +53,9 @@ nav{
   border-radius: 10px;
 }
 header{
-  background-image: url(images/hero.png);
-  background-size: cover;
-  background-repeat: no-repeat;
+ background-image: url(../images/hero.png);
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
 .banner{
