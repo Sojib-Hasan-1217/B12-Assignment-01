@@ -264,6 +264,38 @@ form label{
 }
 .form-btn{
   width:100%;
-  padding: 20px auto;
+  padding: 20px;
+  margin-bottom: 70px;
 
+}
+
+
+/* footer-styles */
+footer{
+  background-color: #FFFFFF;
+}
+.footer-section{
+max-width: 550px;
+margin: 0 auto;
+padding: 100px 0px 100px;
+text-align: center;
+}
+.footer-logo{
+  margin: 0;
+  font-size: 100px;
+  font-weight: bold;
+  color: #4E47FF;
+}
+.footer-links{
+  display: flex;
+  /* gap: 40px; */
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.footer-links a{
+  text-decoration: none;
+  color: rgba(137, 135, 161, 1);
+}
+.footer-dis{
+  color: rgba(137, 135, 161, 1);
 }
