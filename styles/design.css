@@ -194,3 +194,32 @@ margin: 0;
   font-size: 18px;
   
 }
+
+
+/* focus-styles */
+.focus-section{
+  display: flex;
+  flex-direction: column;
+  max-width: 1140px;
+  margin: 135px auto;
+  background-color: #FFFFFF;
+  align-items: center;
+  border-radius: 24px;
+
+}
+.focus-title{
+  font-weight: bold;
+  font-size: 50px;
+  margin: 0;
+  padding-top: 70px;
+}
+.focus-dis{
+  color: rgba(0, 0, 0, 0.5);
+}
+.focus-btn{
+  margin-bottom: 20px;
+}
+.focus-img{
+  margin-bottom: 70px;
+  border-radius: 48px;
+}
