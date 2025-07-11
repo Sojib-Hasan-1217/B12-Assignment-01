@@ -136,14 +136,14 @@ margin: 0;
 
 
 /* comment styles */
-.users-comment-sectoin{
+.users-comment-section{
   max-width: 1140px;
-  margin: 135px 150px;
+  margin: 135px auto;
   
 }
 .stars{
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
 }
 .section-title{
   font-weight: bold;
@@ -175,7 +175,6 @@ margin: 0;
 }
 
 .comment{
-  width: 365px;
   background: rgba(255, 255, 255, 1);
   padding: 24px;
   border-radius: 24px;
